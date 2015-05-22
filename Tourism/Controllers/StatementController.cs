@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace Tourism.Controllers
 {
-    public class HomeController : Controller
+    public class StatementController : Controller
     {
         public ActionResult Index()
         {
