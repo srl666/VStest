@@ -13,18 +13,13 @@
     <div class="navbar navbar-default" role="navigation">
 
         <div class="navbar-inner">
-            <button type="button" class="navbar-toggle pull-left animated flip">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="index.html">
-                <img alt="Charisma Logo" src="img/logo20.png" class="hidden-xs" />
-                <span>Charisma</span>
+
+            <a class="navbar-brand" href="/Statement/Index">
+                <img alt="Logo" src="img/logo20.png" class="hidden-xs" />
+                <span>旅行社Logo</span>
             </a>
 
-            <!-- user dropdown starts -->
+            <!-- user dropdown starts -
             <div class="btn-group pull-right">
                 <button class="btn btn-default dropdown-toggle" data-toggle="dropdown">
                     <i class="glyphicon glyphicon-user"></i><span class="hidden-sm hidden-xs"> Admin</span>
@@ -36,36 +31,19 @@
                     <li><a href="login.html">Logout</a></li>
                 </ul>
             </div>
-            <!-- user dropdown ends -->
-            <!-- theme selector starts -->
-            <div class="btn-group pull-right theme-container tada">
-                <button class="btn btn-default dropdown-toggle" data-toggle="dropdown">
-                    <i class="glyphicon glyphicon-tint"></i><span class="hidden-sm hidden-xs">Skin</span>
-                    <span class="caret"></span>
-                </button>
-                <ul class="dropdown-menu" id="themes">
-                    <li><a data-value="classic" href="#"><i class="whitespace"></i> Classic</a></li>
-                    <li><a data-value="cerulean" href="#"><i class="whitespace"></i> Cerulean</a></li>
-                    <li><a data-value="cyborg" href="#"><i class="whitespace"></i> Cyborg</a></li>
-                    <li><a data-value="simplex" href="#"><i class="whitespace"></i> Simplex</a></li>
-                    <li><a data-value="darkly" href="#"><i class="whitespace"></i> Darkly</a></li>
-                    <li><a data-value="lumen" href="#"><i class="whitespace"></i> Lumen</a></li>
-                    <li><a data-value="slate" href="#"><i class="whitespace"></i> Slate</a></li>
-                    <li><a data-value="spacelab" href="#"><i class="whitespace"></i> Spacelab</a></li>
-                    <li><a data-value="united" href="#"><i class="whitespace"></i> United</a></li>
-                </ul>
-            </div>
-            <!-- theme selector ends -->
+            -- user dropdown ends -->
 
+            <!-- navigator menu starts-->
+                     
             <ul class="collapse navbar-collapse nav navbar-nav top-menu">
-                <li><a href="#"><i class="glyphicon glyphicon-globe"></i> Visit Site</a></li>
+                <li><a href="/Account/Login"><i class="glyphicon glyphicon-globe"></i> 登入</a></li>
                 <li class="dropdown">
                     <a href="#" data-toggle="dropdown">
                         <i class="glyphicon glyphicon-star"></i> Dropdown <span class="caret"></span>
                     </a>
                     <ul class="dropdown-menu" role="menu">
-                        <li><a href="#">Action</a></li>
-                        <li><a href="#">Another action</a></li>
+                        <li>@Html.ActionLink("聯絡", "Contact", "Statement")</li>
+                        <li>@Html.ActionLink("首頁", "Index", "Statement")</li>
                         <li><a href="#">Something else here</a></li>
                         <li class="divider"></li>
                         <li><a href="#">Separated link</a></li>
@@ -80,14 +58,14 @@
                     </form>
                 </li>
             </ul>
-
+            <!-- navigator menu ends-->
         </div>
     </div>
 
     <!-- topbar ends -->
     <div class="container body-content">
         @RenderBody()
-
+        @RenderSection("part1", required: false)
         <footer>
             <p>&copy; @DateTime.Now.Year</p>
         </footer>
