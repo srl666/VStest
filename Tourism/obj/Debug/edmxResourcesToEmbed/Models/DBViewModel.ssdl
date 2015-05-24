@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProjectDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ProjectDBModelStoreContainer">
+    <EntitySet Name="Customers" EntityType="ProjectDBModel.Store.Customers" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Forms" EntityType="ProjectDBModel.Store.Forms" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="CustomerForm" Association="ProjectDBModel.Store.CustomerForm">
+      <End Role="Customer" EntitySet="Customers" />
+      <End Role="Form" EntitySet="Forms" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Customers">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nchar" Nullable="true" MaxLength="10" />
+    <Property Name="Tel" Type="nchar" Nullable="true" MaxLength="10" />
+    <Property Name="Uninumber" Type="nchar" Nullable="true" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Forms">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CustomerID" Type="int" Nullable="true" />
+    <Property Name="Date" Type="nchar" Nullable="true" MaxLength="10" />
+    <Property Name="Groupname" Type="nchar" Nullable="true" MaxLength="10" />
+    <Property Name="CustomerCustomerID" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="CustomerForm">
+    <End Role="Customer" Type="ProjectDBModel.Store.Customers" Multiplicity="1" />
+    <End Role="Form" Type="ProjectDBModel.Store.Forms" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="Form">
+        <PropertyRef Name="CustomerCustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

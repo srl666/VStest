@@ -104,6 +104,10 @@ D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\bin\Microsoft.Owin.Securi
 D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\bin\Microsoft.Owin.Security.Google.xml
 D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\obj\Debug\Tourism.csprojResolveAssemblyReference.cache
 D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\obj\Debug\Tourism.dll
 D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\obj\Debug\Tourism.pdb
+D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\obj\Debug\Tourism.Migrations.InitialCreate.resources
+D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\obj\Debug\Tourism.csproj.GenerateResource.Cache
+D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\obj\Debug\Tourism.Migrations.newdt.resources
+D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\obj\Debug\Tourism.Migrations.newdt1.resources
+D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\obj\Debug\Tourism.csprojResolveAssemblyReference.cache
