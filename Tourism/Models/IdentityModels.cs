@@ -9,8 +9,6 @@ namespace Tourism.Models
     // 您可以在 ApplicationUser 類別新增更多屬性，為使用者新增設定檔資料，請造訪 http://go.microsoft.com/fwlink/?LinkID=317594 以深入了解。
     public class ApplicationUser : IdentityUser
     {
-        public virtual UserProfileInfo UserProfileInfo { get; set; }
-        public virtual Customers Customers { get; set; }
 
         public async Task<ClaimsIdentity> GenerateUserIdentityAsync(UserManager<ApplicationUser> manager)
         {
@@ -21,21 +19,7 @@ namespace Tourism.Models
         }
     }
 
-    public class UserProfileInfo
-    {
-        public int Id { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string EmailID { get; set; }
-    }
 
-    public class Customers
-    {
-        public int Id { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string EmailID { get; set; }
-    }
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
@@ -44,7 +28,7 @@ namespace Tourism.Models
         {
         }
 
-        public System.Data.Entity.DbSet<UserProfileInfo> UserProfileInfo { get; set; }
+        
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();

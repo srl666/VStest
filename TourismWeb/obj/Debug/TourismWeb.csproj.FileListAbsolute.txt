@@ -1,0 +1,114 @@
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\TourismWeb.dll.config
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\TourismWeb.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\TourismWeb.pdb
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Antlr3.Runtime.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\EntityFramework.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\EntityFramework.SqlServer.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.Security.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.Security.Google.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Newtonsoft.Json.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Owin.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\System.Web.Helpers.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\System.Web.Mvc.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\System.Web.Optimization.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\System.Web.Razor.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\System.Web.WebPages.Deployment.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\System.Web.WebPages.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\System.Web.WebPages.Razor.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\WebGrease.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\System.Web.Helpers.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\System.Web.Mvc.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\System.Web.Optimization.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\System.Web.Razor.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\System.Web.WebPages.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\System.Web.WebPages.Deployment.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\System.Web.WebPages.Razor.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Antlr3.Runtime.pdb
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Newtonsoft.Json.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\EntityFramework.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\EntityFramework.SqlServer.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.Security.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.Security.Google.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\obj\Debug\TourismWeb.csprojResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\obj\Debug\TourismWeb.dll
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\obj\Debug\TourismWeb.pdb
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\obj\Debug\TourismWeb.Migrations.test.resources
+c:\users\win7\documents\visual studio 2015\Projects\TourismWeb\TourismWeb\TourismWeb\obj\Debug\TourismWeb.csproj.GenerateResource.Cache
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\TourismWeb.dll.config
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\TourismWeb.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\TourismWeb.pdb
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Antlr3.Runtime.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\EntityFramework.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\EntityFramework.SqlServer.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.Security.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Newtonsoft.Json.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Owin.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\System.Web.Helpers.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\System.Web.Mvc.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\System.Web.Optimization.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\System.Web.Razor.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\System.Web.WebPages.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\System.Web.WebPages.Razor.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\WebGrease.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\System.Web.Helpers.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\System.Web.Mvc.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\System.Web.Optimization.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\System.Web.Razor.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\System.Web.WebPages.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\System.Web.WebPages.Razor.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Antlr3.Runtime.pdb
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Newtonsoft.Json.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\EntityFramework.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\EntityFramework.SqlServer.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.Security.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\obj\Debug\TourismWeb.dll
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\obj\Debug\TourismWeb.pdb
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\obj\Debug\TourismWeb.csprojResolveAssemblyReference.cache
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\obj\Debug\TourismWeb.Migrations._new.resources
+D:\Dropbox\產學合作\旅行社表單\VStest\TourismWeb\obj\Debug\TourismWeb.csproj.GenerateResource.Cache

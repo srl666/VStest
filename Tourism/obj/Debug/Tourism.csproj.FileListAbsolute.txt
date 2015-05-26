@@ -111,3 +111,4 @@ D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\obj\Debug\Tourism.csproj.
 D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\obj\Debug\Tourism.Migrations.newdt.resources
 D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\obj\Debug\Tourism.Migrations.newdt1.resources
 D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\obj\Debug\Tourism.csprojResolveAssemblyReference.cache
+D:\Dropbox\產學合作\旅行社表單\VStest\Tourism\obj\Debug\Tourism.Migrations._new.resources
