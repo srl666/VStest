@@ -13,12 +13,6 @@
     <div class="navbar navbar-default" role="navigation">
 
         <div class="navbar-inner">
-
-            <a class="navbar-brand" href="/Statement/Index">
-                <img alt="Logo" src="img/logo20.png" class="hidden-xs" />
-                <span>旅行社Logo</span>
-            </a>
-
             <!-- user dropdown starts -
             <div class="btn-group pull-right">
                 <button class="btn btn-default dropdown-toggle" data-toggle="dropdown">
@@ -35,29 +29,73 @@
             <!-- navigator menu starts-->
 
             <ul class="collapse navbar-collapse nav navbar-nav top-menu">
-                <li><a href="/Account/Login"><i class="glyphicon glyphicon-globe"></i> 登入</a></li>
-                <li class="dropdown">
-                    <a href="#" data-toggle="dropdown">
-                        <i class="glyphicon glyphicon-star"></i> 標籤一 <span class="caret"></span>
-                    </a>
-                    <ul class="dropdown-menu" role="menu">
-                        <li>@Html.ActionLink("聯絡", "Contact", "Statement")</li>
-                        <li>@Html.ActionLink("首頁", "Index", "Statement")</li>
-                    </ul>
-                </li>
-                <li class="dropdown">
-                    <a href="#" data-toggle="dropdown">
-                        <i class="glyphicon glyphicon-cloud-download"></i> 標籤二 <span class="caret"></span>
-                    </a>
-                    <ul class="dropdown-menu" role="menu">
-                        <li><a href="#">Something else here</a></li>
-                        <li class="divider"></li>
-                        <li><a href="#">Separated link</a></li>
-                        <li class="divider"></li>
-                        <li><a href="#">One more separated link</a></li>
-                    </ul>
-                </li>
+                <li class="??-group">
+                    <li class="dropdown">
+                        <a href="#" data-toggle="dropdown">
+                            <i class="glyphicon glyphicon-calendar"></i> 出團損益表 <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="#"><i class="glyphicon glyphicon-pencil"> 出團損益表</i></a></li>
+                            <li class="divider"></li>
+                            <li><a href="#"><i class="glyphicon glyphicon-search"> 出團損益表查詢</i></a></li>
+                            <li class="divider"></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" data-toggle="dropdown">
+                           費用請款單 <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li class="divider"></li>
+                            <li><a href="#"><i class="glyphicon glyphicon-pencil"> 費用請款單</i></a></li>
+                            <li><a href="#"><i class="glyphicon glyphicon-search"> 費用請款明細查詢</i></a></li>
+                            <li class="divider"></li>
+                        </ul>
+                    </li> 
+                    <li class="dropdown">
+                        <a href="#" data-toggle="dropdown">
+                            客戶請款單 
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="#"><i class="glyphicon glyphicon-pencil"> 客戶請款單</i></a></li>
+                            <li><a href="#"><i class="glyphicon glyphicon-search"> 客戶請款明細查詢</i></a></li>
+                            <li class="divider"></li>
+                            <li><a href="#"><i class="glyphicon glyphicon-usd"> 繳款單</i></a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" data-toggle="dropdown">
+                            總帳系統 <span class="caret"></span>
+                        </a>
+                    </li>  
+                    <li class="dropdown">
+                        <a href="#" data-toggle="dropdown">
+                           資金系統 <span class="caret"></span>
+                        </a>
+                    </li>  
+                    <li class="dropdown">
+                        <a href="#" data-toggle="dropdown">
+                            系統<span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="#"><i class="glyphicon glyphicon-user"> 人員帳號設定</i></a></li>
+                            <li><a href="#"> 核決權設定</a></li>
+                            <li><a href="#"> 收付款條件</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#"> 出團損益-項目</a></li>
+                            <li><a href="#"> 出團損益-名稱</a></li>
+                            <li><a href="#"> 出團損益-內容明細</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#"><i class="glyphicon glyphicon-lock"> 權限設定</i></a></li>
+                            <li><a href="#"><i class="glyphicon glyphicon-user"> 代理人設定</i></a></li>
+                            <li class="divider"></li>
+                        </ul>
+                    </li>
             </ul>
+            <a class="navbar-brand pull-right" href="/Statement/Index">
+                <img alt="Logo" src="img/logo20.png" class="hidden-xs" />
+                <span>旅行社Logo</span>
+            </a>
             <!-- navigator menu ends-->
         </div>
     </div>
