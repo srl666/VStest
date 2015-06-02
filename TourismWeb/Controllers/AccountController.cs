@@ -9,11 +9,12 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using TourismWeb.Models;
+using Microsoft.AspNet.Identity.EntityFramework;
 
 namespace TourismWeb.Controllers
 {
     [Authorize]
-    public class AccountController : Controller
+    public class AccountController : BaseController<ApplicationUser, IdentityRole, ApplicationDbContext>
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
