@@ -13,13 +13,13 @@ namespace TourismWeb.Controllers
 {
     public class CustomersController : Controller
     {
-        private TourismContext db = new TourismContext();
+        private MyDbContext db = new MyDbContext();
 
         // GET: Customers
         public ActionResult Index()
         {
-            var customers = db.Customers.Include(c => c.Processs);
-            return View(customers);
+            var customers = db.Customers.Include(c => c.Process);
+            return View(customers.ToList());
         }
 
         // GET: Customers/Details/5
@@ -40,6 +40,7 @@ namespace TourismWeb.Controllers
         // GET: Customers/Create
         public ActionResult Create()
         {
+            ViewBag.ID = new SelectList(db.Processes, "ProcessID", "ProcessName");
             return View();
         }
 
@@ -57,6 +58,7 @@ namespace TourismWeb.Controllers
                 return RedirectToAction("Index");
             }
 
+            ViewBag.ID = new SelectList(db.Processes, "ProcessID", "ProcessName", customer.ID);
             return View(customer);
         }
 
@@ -72,6 +74,7 @@ namespace TourismWeb.Controllers
             {
                 return HttpNotFound();
             }
+            ViewBag.ID = new SelectList(db.Processes, "ProcessID", "ProcessName", customer.ID);
             return View(customer);
         }
 
@@ -88,6 +91,7 @@ namespace TourismWeb.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
+            ViewBag.ID = new SelectList(db.Processes, "ProcessID", "ProcessName", customer.ID);
             return View(customer);
         }
 

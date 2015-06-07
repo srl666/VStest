@@ -47,7 +47,7 @@ namespace TourismWeb.Controllers
             if (ModelState.IsValid)
             {
 
-                using (var db = new TourismContext())
+                using (var db = new MyDbContext())
                 {
 
                     db.Customers.Add(model);

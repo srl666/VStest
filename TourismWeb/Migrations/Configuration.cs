@@ -5,14 +5,15 @@ namespace TourismWeb.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<TourismWeb.Models.ApplicationDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<TourismWeb.DAL.MyDbContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
+            ContextKey = "TourismWeb.DAL.MyDbContext";
         }
 
-        protected override void Seed(TourismWeb.Models.ApplicationDbContext context)
+        protected override void Seed(TourismWeb.DAL.MyDbContext context)
         {
             //  This method will be called after migrating to the latest version.
 

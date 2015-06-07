@@ -11,8 +11,9 @@ namespace TourismWeb.Models
     {
         public int OrderID { get; set; }
         public string Title { get; set; }
+        public int CustomerID { get; set; }
 
-
+        public virtual Customer Customer { get; set; }
         public virtual ICollection<Process> Processs { get; set; }
     }
 }

@@ -8,8 +8,8 @@ namespace TourismWeb.Models
 {
     class CustomerOrderProcessModels
     {
-
-
-
+        public IEnumerable<Customer> Customers { get; set; }
+        public IEnumerable<Order> Orders { get; set; }
+        public IEnumerable<Process> Processs { get; set; }
     }
 }
